@@ -1,0 +1,3 @@
+ls = lista os arquivos 
+cd Desktop = muda diretório
+pwd = mostra o caminho absoluto
