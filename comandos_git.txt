@@ -1,8 +1,8 @@
-git init. = cria um rep git na pasta atual
-git status = mostra o status do trabalho (de cada arquivo)
-git add nome_arquivo = add arquivo para ser commit
-git commit -m = faz commit do que esta sendo feito
-git log = mostra todo histórico de commit 
+git init.            = Cria um rep git na pasta atual.
+git status           = Mostra o status do trabalho (de cada arquivo).
+git add nome_arquivo = Add arquivo para ser commit.
+git commit -m        = Faz commit do que esta sendo feito.
+git log              = Mostra todo histórico de commit.
 
 #FLUXO DE TRABALHO:
 1.criar diretório do projeto
@@ -11,7 +11,7 @@ git log = mostra todo histórico de commit
 4.git status
 5.git add "nome arquivo"
 6.git status
-7.git commit -m "mensagem"
+7.git commit -m "mensagem qualquer"
 8.git status
 9.volta para o passo 3 
 
