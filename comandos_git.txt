@@ -4,6 +4,7 @@ git add nome_arquivo = Add arquivo para ser commit.
 git commit -m = Faz commit do que esta sendo feito.
 git log = Mostra todo histórico de commit.
 
+
 #FLUXO DE TRABALHO:
 1.criar diretório do projeto
 2.iniciar o git dentro do diretório criado (git init.)
